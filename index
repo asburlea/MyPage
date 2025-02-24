@@ -71,8 +71,9 @@
     </header>
     
     <section id="home" class="hero">
-        <h1>We Create Unique Digital Experiences</h1>
-        <p>Design, Development & Branding Solutions</p>
+        <h1>Our research group operates at the intersection of neural engineering, AI and machine learning, to model and decode human brain and behavioral activity. </h1>
+        <p>We develop AI-driven brain-computer interfaces (BCIs) and neurotechnologies that integrate uncertainty quantification, multimodal sensory models, and refined interaction control strategies for robotics and BCIs.</p>
+        <p> Additionally, we explore the role of AI in higher education, enhancing digital skills and ethical understanding of neurotechnology. Our computational frameworks and neuroAI approaches aim to advance next-generation BCIs, restoring lost motor and cognitive functions in individuals with neurological disorders.</p>
         <a href="#work" class="btn">Explore Work</a>
     </section>
     
